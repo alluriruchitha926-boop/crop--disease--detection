@@ -2,3 +2,4 @@ tensorflow
 openCV-python
 numpy
 matplotlib
+scikit-learn
