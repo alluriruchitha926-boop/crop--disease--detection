@@ -1,0 +1,4 @@
+tensorflow
+openCV-python
+numpy
+matplotlib
