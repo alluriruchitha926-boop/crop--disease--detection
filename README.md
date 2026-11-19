@@ -12,5 +12,6 @@ Crop diseases reduce yield. This project detects the disease from a leaf photo a
 - OpenCV
 ## Status
 In progress. Code and results coming soon.
+## Sample Images
 ![Sample leaf 1](download.webp)
 ![Sample leaf 2](download%20(1).webp)
