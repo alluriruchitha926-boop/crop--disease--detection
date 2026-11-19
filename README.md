@@ -10,8 +10,13 @@ Crop diseases reduce yield. This project detects the disease from a leaf photo a
 - Python
 - Deep learning (CNN)
 - OpenCV
+ ## How to run
+1. Install libraries: `pip install -r requirements.txt`
+2. Put your images in a `dataset/` folder (one subfolder per disease)
+3. Train the model: `python train.py`
+4. Test a leaf image: `python predict.py leaf.jpg` 
 ## Status
-In progress. Code and results coming soon.
+Code Uploaded. Model training ang result in progress
 ## Sample Images
 ![Sample leaf1](download.webp)
 ![Sample leaf2](download%20(1).webp)
